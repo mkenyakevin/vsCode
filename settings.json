@@ -1,0 +1,10 @@
+{
+    "php.suggest.basic": false,
+    "php.executablePath": "/usr/local/bin/php",
+    "editor.fontSize": 10,
+    "editor.fontFamily": "Monaco",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+
+}

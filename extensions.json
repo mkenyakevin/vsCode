@@ -1,0 +1,422 @@
+[
+  {
+    "metadata": {
+      "id": "2cbad5ee-b4ab-4de8-a1c7-77fede846155",
+      "publisherId": "patbenatar.advanced-new-file",
+      "publisherDisplayName": "patbenatar"
+    },
+    "name": "advanced-new-file",
+    "publisher": "patbenatar",
+    "version": "1.2.0"
+  },
+  {
+    "metadata": {
+      "id": "d27015c6-4b76-41f8-a7c6-4116c9dca15a",
+      "publisherId": "lepoetemaudit.alpaca",
+      "publisherDisplayName": "lepoetemaudit"
+    },
+    "name": "alpaca",
+    "publisher": "lepoetemaudit",
+    "version": "0.0.2"
+  },
+  {
+    "metadata": {
+      "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+      "publisherId": "formulahendry.auto-close-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-close-tag",
+    "publisher": "formulahendry",
+    "version": "0.5.6"
+  },
+  {
+    "metadata": {
+      "id": "cb5ffd62-3768-4f92-83a0-ccf84e22ddf4",
+      "publisherId": "kevinkyang.auto-comment-blocks",
+      "publisherDisplayName": "kevinkyang"
+    },
+    "name": "auto-comment-blocks",
+    "publisher": "kevinkyang",
+    "version": "1.0.1"
+  },
+  {
+    "metadata": {
+      "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+      "publisherId": "formulahendry.auto-rename-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-rename-tag",
+    "publisher": "formulahendry",
+    "version": "0.0.15"
+  },
+  {
+    "metadata": {
+      "id": "70378119-1d85-4935-9733-0298c7a369a2",
+      "publisherId": "steoates.autoimport",
+      "publisherDisplayName": "steoates"
+    },
+    "name": "autoimport",
+    "publisher": "steoates",
+    "version": "1.5.3"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "2.9.2"
+  },
+  {
+    "metadata": {
+      "id": "d1d38669-b95b-4592-be08-47526ef8b730",
+      "publisherId": "ikappas.composer",
+      "publisherDisplayName": "ikappas"
+    },
+    "name": "composer",
+    "publisher": "ikappas",
+    "version": "0.7.1"
+  },
+  {
+    "metadata": {
+      "id": "ce8be53e-b000-42d1-96bb-212fd23c67b4",
+      "publisherId": "HvyIndustries.crane",
+      "publisherDisplayName": "HvyIndustries"
+    },
+    "name": "crane",
+    "publisher": "HvyIndustries",
+    "version": "0.3.8"
+  },
+  {
+    "metadata": {
+      "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+      "publisherId": "mikestead.dotenv",
+      "publisherDisplayName": "mikestead"
+    },
+    "name": "dotenv",
+    "publisher": "mikestead",
+    "version": "1.0.1"
+  },
+  {
+    "metadata": {
+      "id": "8edd410a-6a61-4a6e-820f-9be6cb26b1dc",
+      "publisherId": "trinm1709.dracula-theme-from-intellij",
+      "publisherDisplayName": "trinm1709"
+    },
+    "name": "dracula-theme-from-intellij",
+    "publisher": "trinm1709",
+    "version": "0.2.3"
+  },
+  {
+    "metadata": {
+      "id": "5f7372bf-e0de-4eee-af69-6fb879d7d98c",
+      "publisherId": "pgourlain.erlang",
+      "publisherDisplayName": "pgourlain"
+    },
+    "name": "erlang",
+    "publisher": "pgourlain",
+    "version": "0.4.6"
+  },
+  {
+    "metadata": {
+      "id": "185d539d-14be-4fa8-8c0b-229330fbbb84",
+      "publisherId": "yuce.erlang-otp",
+      "publisherDisplayName": "yuce"
+    },
+    "name": "erlang-otp",
+    "publisher": "yuce",
+    "version": "0.2.4"
+  },
+  {
+    "metadata": {
+      "id": "93ac7a36-c322-4582-8d7e-cb2d37c3366c",
+      "publisherId": "sldobri.fantastical-php-code",
+      "publisherDisplayName": "sldobri"
+    },
+    "name": "fantastical-php-code",
+    "publisher": "sldobri",
+    "version": "0.1.2"
+  },
+  {
+    "metadata": {
+      "id": "69d25e40-8ee6-40a4-9f3a-d54042b3e4c1",
+      "publisherId": "cxfksword.goto-documentation",
+      "publisherDisplayName": "cxfksword"
+    },
+    "name": "goto-documentation",
+    "publisher": "cxfksword",
+    "version": "0.0.1"
+  },
+  {
+    "metadata": {
+      "id": "f30b63fa-e34a-40af-a573-5de5ecfb6c5e",
+      "publisherId": "k--kato.intellij-idea-keybindings",
+      "publisherDisplayName": "k--kato"
+    },
+    "name": "intellij-idea-keybindings",
+    "publisher": "k--kato",
+    "version": "0.2.24"
+  },
+  {
+    "metadata": {
+      "id": "8a3855a5-f258-48ee-87f9-fa4f7a0875b1",
+      "publisherId": "ryannaddy.laravel-artisan",
+      "publisherDisplayName": "ryannaddy"
+    },
+    "name": "laravel-artisan",
+    "publisher": "ryannaddy",
+    "version": "0.0.20"
+  },
+  {
+    "metadata": {
+      "id": "3b58a227-618a-4b57-a06b-6984a2a8d1ba",
+      "publisherId": "onecentlin.laravel-blade",
+      "publisherDisplayName": "onecentlin"
+    },
+    "name": "laravel-blade",
+    "publisher": "onecentlin",
+    "version": "1.18.0"
+  },
+  {
+    "metadata": {
+      "id": "050d4900-7979-4d10-b7aa-e274f6ae8730",
+      "publisherId": "onecentlin.laravel5-snippets",
+      "publisherDisplayName": "onecentlin"
+    },
+    "name": "laravel5-snippets",
+    "publisher": "onecentlin",
+    "version": "1.4.0"
+  },
+  {
+    "metadata": {
+      "id": "4bf45e86-a448-4531-8c01-ef33f4536306",
+      "publisherId": "ms-mssql.mssql",
+      "publisherDisplayName": "ms-mssql"
+    },
+    "name": "mssql",
+    "publisher": "ms-mssql",
+    "version": "1.4.0"
+  },
+  {
+    "metadata": {
+      "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+      "publisherId": "christian-kohler.path-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "path-intellisense",
+    "publisher": "christian-kohler",
+    "version": "1.4.2"
+  },
+  {
+    "metadata": {
+      "id": "c04b5756-29e7-4de4-9ded-28b0a2c34285",
+      "publisherId": "predrag-nikolic.php-class-helper",
+      "publisherDisplayName": "predrag-nikolic"
+    },
+    "name": "php-class-helper",
+    "publisher": "predrag-nikolic",
+    "version": "0.1.8"
+  },
+  {
+    "metadata": {
+      "id": "b06b65b2-6ea9-4045-b166-54aa63205261",
+      "publisherId": "junstyle.php-cs-fixer",
+      "publisherDisplayName": "junstyle"
+    },
+    "name": "php-cs-fixer",
+    "publisher": "junstyle",
+    "version": "0.1.83"
+  },
+  {
+    "metadata": {
+      "id": "044b4b31-2969-4af3-895d-855433b8b46d",
+      "publisherId": "felixfbecker.php-debug",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-debug",
+    "publisher": "felixfbecker",
+    "version": "1.12.3"
+  },
+  {
+    "metadata": {
+      "id": "d35dd203-c6ad-4aa8-9502-50f7b2d14b14",
+      "publisherId": "vincentkos.php-docblock-generator",
+      "publisherDisplayName": "vincentkos"
+    },
+    "name": "php-docblock-generator",
+    "publisher": "vincentkos",
+    "version": "0.0.1"
+  },
+  {
+    "metadata": {
+      "id": "ca0094fa-0dc7-4847-ae5d-879442c099ca",
+      "publisherId": "neilbrayfield.php-docblocker",
+      "publisherDisplayName": "neilbrayfield"
+    },
+    "name": "php-docblocker",
+    "publisher": "neilbrayfield",
+    "version": "1.6.0"
+  },
+  {
+    "metadata": {
+      "id": "5e69f001-f945-4c97-baf0-320d82a153b3",
+      "publisherId": "felixfbecker.php-intellisense",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-intellisense",
+    "publisher": "felixfbecker",
+    "version": "2.3.3"
+  },
+  {
+    "metadata": {
+      "id": "651dce1f-eda8-4a5b-aa26-0d1266de8ed1",
+      "publisherId": "MehediDracula.php-namespace-resolver",
+      "publisherDisplayName": "MehediDracula"
+    },
+    "name": "php-namespace-resolver",
+    "publisher": "MehediDracula",
+    "version": "1.1.0"
+  },
+  {
+    "metadata": {
+      "id": "80cd78fe-5f26-46fd-bfca-cd9b9a17329e",
+      "publisherId": "linyang95.php-symbols",
+      "publisherDisplayName": "linyang95"
+    },
+    "name": "php-symbols",
+    "publisher": "linyang95",
+    "version": "2.1.0"
+  },
+  {
+    "metadata": {
+      "id": "ab9598e9-d3c2-4c4b-91ff-0d37b265e4fb",
+      "publisherId": "caonUlisses.phplt",
+      "publisherDisplayName": "caonUlisses"
+    },
+    "name": "phplt",
+    "publisher": "caonUlisses",
+    "version": "1.1.0"
+  },
+  {
+    "metadata": {
+      "id": "a8194b6b-5989-4647-a5b8-ac7085201841",
+      "publisherId": "brapifra.phpserver",
+      "publisherDisplayName": "brapifra"
+    },
+    "name": "phpserver",
+    "publisher": "brapifra",
+    "version": "2.4.4"
+  },
+  {
+    "metadata": {
+      "id": "658b5664-4b80-4bba-9fb9-6e212e6d223d",
+      "publisherId": "akhail.save-typing",
+      "publisherDisplayName": "akhail"
+    },
+    "name": "save-typing",
+    "publisher": "akhail",
+    "version": "0.1.0"
+  },
+  {
+    "metadata": {
+      "id": "7284bc36-72ff-4127-8a41-dcbbe86a661f",
+      "publisherId": "jvitor83.typings-autoinstaller",
+      "publisherDisplayName": "jvitor83"
+    },
+    "name": "typings-autoinstaller",
+    "publisher": "jvitor83",
+    "version": "1.2.0"
+  },
+  {
+    "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "PeterJausovec.vscode-docker",
+      "publisherDisplayName": "PeterJausovec"
+    },
+    "name": "vscode-docker",
+    "publisher": "PeterJausovec",
+    "version": "0.0.27"
+  },
+  {
+    "metadata": {
+      "id": "1f3ea0ff-9a0a-4ac1-aaf7-0ca1e802ae08",
+      "publisherId": "prokopiy.vscode-erlang-workbench",
+      "publisherDisplayName": "prokopiy"
+    },
+    "name": "vscode-erlang-workbench",
+    "publisher": "prokopiy",
+    "version": "0.0.9"
+  },
+  {
+    "metadata": {
+      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
+      "publisherId": "bmewburn.vscode-intelephense-client",
+      "publisherDisplayName": "bmewburn"
+    },
+    "name": "vscode-intelephense-client",
+    "publisher": "bmewburn",
+    "version": "0.8.8"
+  },
+  {
+    "metadata": {
+      "id": "4d25bcde-efed-4076-8899-8459510f7dc1",
+      "publisherId": "NigelRook.vscode-linter-erlc",
+      "publisherDisplayName": "NigelRook"
+    },
+    "name": "vscode-linter-erlc",
+    "publisher": "NigelRook",
+    "version": "0.5.1"
+  },
+  {
+    "metadata": {
+      "id": "80e9cc3c-eb09-48ed-afda-f1cfd9c9ca3f",
+      "publisherId": "phproberto.vscode-php-getters-setters",
+      "publisherDisplayName": "phproberto"
+    },
+    "name": "vscode-php-getters-setters",
+    "publisher": "phproberto",
+    "version": "1.2.3"
+  },
+  {
+    "metadata": {
+      "id": "8130e01f-ac60-4803-ab86-f05469dd7b4d",
+      "publisherId": "kokororin.vscode-phpfmt",
+      "publisherDisplayName": "kokororin"
+    },
+    "name": "vscode-phpfmt",
+    "publisher": "kokororin",
+    "version": "1.0.30"
+  },
+  {
+    "metadata": {
+      "id": "f533a3a3-37aa-4833-9a0f-5725bbc07c3e",
+      "publisherId": "yahya-gilany.vscode-pomodoro",
+      "publisherDisplayName": "yahya-gilany"
+    },
+    "name": "vscode-pomodoro",
+    "publisher": "yahya-gilany",
+    "version": "1.0.3"
+  },
+  {
+    "metadata": {
+      "id": "ec2271c0-9d6d-44c5-93e5-7e8cda744f21",
+      "publisherId": "rokoroku.vscode-theme-darcula",
+      "publisherDisplayName": "rokoroku"
+    },
+    "name": "vscode-theme-darcula",
+    "publisher": "rokoroku",
+    "version": "1.1.0"
+  },
+  {
+    "metadata": {
+      "id": "0cb81da2-1880-4755-9995-0ae9cc728e20",
+      "publisherId": "DotJoshJohnson.xml",
+      "publisherDisplayName": "DotJoshJohnson"
+    },
+    "name": "xml",
+    "publisher": "DotJoshJohnson",
+    "version": "2.3.1"
+  }
+]
